@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hey, I'm Vibhu, a mechanical engineering student with a passion for coding and game development. I’ve explored languages like C, C++, Java, and C#, and have worked with Unreal Engine for game development. I also have experience with DSA using C++ and Java.
 
-<!--
-**MiraclesRidiculed/MiraclesRidiculed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always learning and enjoy contributing to a wide variety of projects, even if I haven't mastered any one area yet. Let's build something cool together!
 
-Here are some ideas to get you started:
+🔧 Skills:
+- C, C++, Java, C#
+- Unreal Engine for game dev
+- PHP for server setups
+- MERN stack
+- Pentesting, batch scripting, phishing (farming)
+- Video editing with DaVinci Resolve, Premiere Pro, After Effects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning: Mechanical Engineering, MERN stack, DSA
