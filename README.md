@@ -3,7 +3,7 @@
 I'm always learning and enjoy contributing to a wide variety of projects, even if I haven't mastered any one area yet. Let's build something cool together!
 
 🔧 Skills:
-- C, C++, Java, C#
+- Python,C, C++, Java, C#
 - Unreal Engine for game dev
 - PHP for server setups
 - MERN stack
